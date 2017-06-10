@@ -6,8 +6,8 @@ You can use it as you want, you don't have to ask me for permission. Just please
 If you have any questions, or bugs to report contact me at kamilbeben94@gmail.com
 
 Currently implemented shapes:
-CircleShape
-PolygonShape
+CircleShape,
+PolygonShape,
 EdgeShape
 and joints.
 
